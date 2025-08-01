@@ -14,7 +14,7 @@
 	  💻 10+ years of experience in JavaScript development.
       📚 2 years of experience mentoring students and conducting training sessions.
       🤝 Conducting outsourced technical interviews to help companies evaluate developers.
-	  ⚡ Focused on React, Node.js, scalable authentication systems.
+	  ⚡ Focused on React, Node.js, Vue, Next js, React Native
 	  🚀 Passionate about building fast, secure, and maintainable apps.
 	  🌱 Always exploring modern JS ecosystems.
 
