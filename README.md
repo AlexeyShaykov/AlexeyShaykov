@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&lines=%20Hi+there%2C+I'm+Alexey+%F0%9F%91%8B;Senior+Developer;10%2B+Years+Experience;React+%7C+Node.js;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&padding=5&lines=%20%20Hi+there%2C+I'm+Alexey+%F0%9F%91%8B;Senior+Developer;10%2B+Years+Experience;React+%7C+Node.js;Welcome+to+my+GitHub!" />
 </p>
 
 
